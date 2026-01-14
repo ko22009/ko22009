@@ -7,9 +7,8 @@
   - Бакалавр: Прикладная информатика  
   - Магистратура: Бизнес-информатика  
 - **Контакты**:  
-  - **Email**: [rkutliakhmetov@yandex.ru](mailto:ko22009@yandex.ru)  
-  - **Телефон**: +7 (922) 710-78-27  
-  - **Telegram**: [@rkutliakhmetov](https://t.me/ko22009)  
+  - **Email**: [ko22009v@yandex.ru](mailto:ko22009@yandex.ru)
+  - **Telegram**: [@ko22009](https://t.me/ko22009)  
 
 ---
 
