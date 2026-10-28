@@ -3,7 +3,7 @@
 **Senior Frontend / Fullstack разработчик** · React, Next.js, TypeScript · разработка с ИИ-инструментами
 
 - Telegram: [@ko22009](https://t.me/ko22009) · канал [«Мой путь в IT»](https://t.me/ko22009_it)
-- Email: [ko22009@yandex.ru](mailto:ko22009@yandex.ru)
+- Email: [kosid2@gmail.com](mailto:kosid2@gmail.com)
 - Статьи: [habr.com/ru/users/ko22009](https://habr.com/ru/users/ko22009/) · [LinkedIn](https://www.linkedin.com/in/ko22009/) · [Хабр Карьера](https://career.habr.com/ko22009)
 - Образование: бакалавр «Прикладная информатика», магистратура «Бизнес-информатика» (ЮУрГУ)
 
